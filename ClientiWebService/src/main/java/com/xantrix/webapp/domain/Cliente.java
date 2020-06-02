@@ -1,6 +1,5 @@
 package com.xantrix.webapp.domain;
 
-import java.util.List;
 import java.io.Serializable;
 import java.sql.Date;
 
